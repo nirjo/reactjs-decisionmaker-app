@@ -1,11 +1,8 @@
-# Indecision App
+# decision App (my first app in reactjs)
+ 
 
-[![Travis CI](https://travis-ci.org/ritwickdey/indecision-app.svg?branch=master)](https://travis-ci.org/ritwickdey/indecision-app.svg?branch=master)
+A simple app made with React - this app will make your decision from your choice.
 
-A simple app made with React - this app will make your decision from your choice. (_It is my First React App_)
-
-## Demo Link
-* link : https://ritwickdey.github.io/indecision-app/
 
 
 ## Tech Staff
